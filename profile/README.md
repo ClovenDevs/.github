@@ -1,19 +1,19 @@
 
-#Cloven Bots
+# Cloven Bots
 
-A Simple Gaming Company 
+A Simple Discord Development company
 
 
-![Logo](https://softgamiing.com/softgaming/assets/img/softgamiing-logo.png)
+![Logo]()
 
 
 ## Authors
 
 - [@EmmanueK5](https://github.com/Emmanuek5/)
-- [@sebinplayz](https://github.com/orgs/SoftGamiing/people/sebinplayz)
+
 
 
 ## Appendix
 
-To contact us: [contact@softgamiing.com](mailto://contact@softgamiing.com)
+To contact us: [contact@clovenbots.com](mailto://contact@clovenbots.com)
 
