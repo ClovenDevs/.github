@@ -1,7 +1,7 @@
 
-# SoftGamiing
+# Cloven Bots
 
-A Simple Gaming Company 
+A Simple Discord Development company
 
 
 ![Logo]()
